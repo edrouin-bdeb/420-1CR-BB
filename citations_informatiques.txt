@@ -1,0 +1,71 @@
+"L'informatique est trop importante pour être laissée aux informaticiens."  -Heather Brooke
+"La meilleure façon de prédire l'avenir est de l'inventer."  -Alan Kay
+"Le logiciel est une combinaison d'art, de science et de magie."  -Douglas Adams
+"Les ordinateurs sont inutiles. Ils ne peuvent que vous donner des réponses."  -Pablo Picasso
+"Les machines de demain sont déjà là, mais elles sont mal distribuées."  -William Gibson
+"Un bon programmeur est celui qui sait résoudre un problème. Un excellent programmeur est celui qui sait résoudre un problème efficacement."  -Donald Knuth
+"L'ordinateur est une machine stupide qui fait des calculs rapides."  -Edsger Dijkstra
+"La logique est un outil, mais elle ne suffit pas à expliquer tout ce qui nous entoure."  -Alan Turing
+"L'informatique, c'est comme un couteau suisse : tout ce qu'on y met devient plus facile."  -Edsger Dijkstra
+"Un programme qui fonctionne ne signifie pas qu'il est bien écrit."  -Bjarne Stroustrup
+"L'innovation distingue les leaders des suiveurs."  -Steve Jobs
+"Il y a deux façons de créer des logiciels : la bonne et la mauvaise. Mais il est important de bien comprendre la différence."  -Martin Fowler
+"Les ordinateurs ne commettent pas d'erreurs, ils suivent des instructions mal données."  -Inconnu
+"Un programmeur qui ignore l'algorithmique est comme un cuisinier qui ignore la recette."  -Jean-Claude Dunyach
+"Un bug n'est qu'une fonctionnalité qui n'a pas encore été découverte."  -Anonyme
+"Il est beaucoup plus facile d'ajouter une fonctionnalité à un programme que de supprimer un bug."  -Anonyme
+"L'optimisation prématurée est la racine de tous les maux."  -Donald Knuth
+"Les programmes sont comme des fenêtres : elles vous montrent ce que vous voulez voir."  -Larry Wall
+"L'informatique est une science humaine."  -Edsger Dijkstra
+"La technologie est inutile sans l'humain derrière."  -Sheryl Sandberg
+"Dans un monde informatique parfait, les programmeurs écriraient des codes lisibles, débogables et efficaces."  -Martin Fowler
+"Les codes sans commentaires sont comme des livres sans pages."  -Steve McConnell
+"L'informatique, c'est résoudre des problèmes que vous n'avez jamais rencontrés avant avec des outils que vous n'avez jamais utilisés."  -Bill Gates
+"Les meilleurs programmeurs ne codent pas juste pour résoudre un problème, ils le font aussi pour rendre le code élégant et compréhensible."  -Robert C. Martin
+"Un ordinateur ne fait que ce qu'on lui dit. C'est pour ça que les bugs sont souvent notre faute."  -Inconnu
+"La complexité est inutile. La simplicité est la clé de tout logiciel."  -Bjarne Stroustrup
+"Un programme peut être tellement rapide qu'il passe à travers le bug."  -Inconnu
+"Le vrai défi n'est pas d'écrire du code, mais de le rendre compréhensible et maintenable."  -John Carmack
+"La plus grande erreur que vous pouvez faire dans la programmation est de ne pas essayer de comprendre le problème avant de coder."  -Inconnu
+"Les ordinateurs ne mentent pas, mais les programmeurs peuvent parfois le faire."  -Inconnu
+"La programmation n'est pas un art. C'est un métier. Mais, comme tout métier, cela demande du talent."  -Steve Wozniak
+"L'art de la programmation consiste à éviter les erreurs avant qu'elles ne surviennent."  -Robert C. Martin
+"L'informatique n'est pas un domaine qui connaît la fin de son évolution."  -Larry Page
+"Ce n'est pas un bug, c'est une fonctionnalité."  -Jesse James Garrett
+"Il n'y a pas de raccourci pour la qualité."  -Steve Jobs
+"Un logiciel est un produit qui est de plus en plus efficace à mesure qu'il est utilisé."  -Don Norman
+"Les données sont comme l'eau, elles ont besoin de pipelines pour circuler."  -Inconnu
+"L'interface utilisateur est la dernière couche visible d'un programme."  -Donald Norman
+"Si vous pensez que l'éducation est chère, essayez l'ignorance."  -Andy Grove
+"Les meilleurs programmeurs sont ceux qui savent quand ne pas programmer."  -Kent Beck
+"Ne vous laissez pas séduire par les outils, concentrez-vous sur les résultats."  -Steve Jobs
+"Les meilleurs logiciels sont les plus simples."  -Bjarne Stroustrup
+"L'un des plus grands obstacles à la créativité en informatique est de s'attacher à la solution avant de bien comprendre le problème."  -Alan Kay
+"Un bon code est un code que d'autres peuvent comprendre."  -Jeff Atwood
+"Tout ce que nous avons, ce sont des morceaux de code. Si nous ne pouvons pas les comprendre, nous ne pouvons pas les modifier."  -Edsger Dijkstra
+"Le problème avec les programmeurs est qu'ils sont souvent trop concentrés sur leur propre code et ne voient pas le code des autres."  -Linus Torvalds
+"Il n'y a pas de bug qui n'ait pas de solution, il y a juste des solutions que nous n'avons pas encore trouvées."  -Inconnu
+"Un ordinateur n'a pas de souvenirs, il garde juste ce qu'on lui dit."  -Ray Kurzweil
+"La meilleure architecture est celle qui permet de changer de direction sans perturber le système."  -Martin Fowler
+"L'algorithmique, c'est comme un chef d'orchestre qui coordonne les instruments pour obtenir une harmonie."  -Inconnu
+"Un algorithme est une recette qui, appliquée à la bonne entrée, produit la sortie attendue."  -Donald Knuth
+"Il y a toujours une meilleure façon de programmer. Il suffit de la chercher."  -Ken Thompson
+"Les systèmes informatiques doivent se comporter comme des outils, non comme des mystères."  -Neal Stephenson
+"Le plus grand ennemi de la programmation est la facilité."  -Andy Hunt
+"Les ordinateurs ne sont que des moyens, pas des fins."  -Alan Kay
+"La technologie, c'est l'art d'organiser des idées pour qu'elles deviennent utiles."  -Kevin Kelly
+"Un bon programme est un programme que vous pouvez comprendre après six mois d'oubli."  -Tom DeMarco
+"L'informatique ne résout pas seulement des problèmes, elle en crée de nouveaux."  -Inconnu
+"L'innovation nécessite la capacité de voir les choses autrement."  -Jeff Bezos
+"La technologie ne résout pas les problèmes, elle nous aide à les résoudre."  -Tim Berners-Lee
+"Les programmes peuvent résoudre des problèmes, mais ils ne créent pas des idées."  -Donald Knuth
+"L'avenir appartient à ceux qui codent."  -Anonyme
+"Le plus grand obstacle à l'innovation n'est pas la technologie, mais la pensée conventionnelle."  -Jeff Bezos
+"Un bon algorithme est comme un bon film : il raconte une histoire sans la rendre trop compliquée."  -Inconnu
+"Les bons programmeurs sont ceux qui trouvent une solution qui fonctionne et la rendent élégante."  -Robert C. Martin
+"Les technologies de demain sont souvent construites sur les erreurs d'hier."  -Bill Gates
+"Les ordinateurs sont nos alliés, pas nos ennemis."  -Alan Turing
+"L'innovation, c'est la capacité de voir des choses que les autres ne voient pas."  -Steve Jobs
+"Il n'y a rien de plus permanent que le temporaire en informatique."  -Inconnu
+"Les solutions de demain sont dans les défis d'aujourd'hui."  -Inconnu
+"Un bug est un signal d'alarme
